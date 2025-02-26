@@ -1,7 +1,5 @@
-import Career2 from "../../../public/assets/imgs/career/2.png";
-import Career3 from "../../../public/assets/imgs/career/3.png";
-import Career4 from "../../../public/assets/imgs/career/4.png";
-import Career5 from "../../../public/assets/imgs/career/5.png";
+import Career2 from "../../../public/assets/imgs/career/2.jpg";
+import Career3 from "../../../public/assets/imgs/career/3.jpg";
 import Image from "next/image";
 
 const CareerGallery = () => {
