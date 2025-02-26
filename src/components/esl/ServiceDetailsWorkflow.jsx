@@ -13,7 +13,7 @@ const ServiceDetailsWorkflow = () => {
                   Selection
                   </h6>
                   <p>
-                  Conduct interviews to assess candidates' teaching experience, communication skills, and cultural sensitivity.
+                  Conduct interviews to assess candidates teaching experience, communication skills, and cultural sensitivity.
                   </p>
                 </div>
               </div>
@@ -37,7 +37,7 @@ const ServiceDetailsWorkflow = () => {
                   Customization
                   </h6>
                   <p>
-                  Collaborate with teachers to create and customize lesson plans based on students' proficiency levels and learning goals, ensuring alignment with your educational standards
+                  Collaborate with teachers to create and customize lesson plans based on students proficiency levels and learning goals, ensuring alignment with your educational standards
                   </p>
                 </div>
               </div>
