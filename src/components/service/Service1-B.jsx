@@ -189,7 +189,7 @@ const Service1 = () => {
 
                       <div className="animation__service_page">
                         <h2 className="service__title-6">
-                        Revolutionize Your School's Efficiency with Our Automation Management Service
+                        Revolutionize Your Schools Efficiency with Our Automation Management Service
                         </h2>
                         <p>
                         Our School Automation Management Service is designed to streamline administrative tasks, enhance communication, and improve overall efficiency within your institution. From managing student records and attendance to automating grading and scheduling, our system reduces manual work and allows educators to focus more on teaching. With real-time access to performance data, parents and administrators can easily track student progress, while teachers can seamlessly plan lessons and assignments. This all-in-one solution improves organization, enhances productivity, and ensures a smoother experience for everyone involved, creating a smarter and more efficient school environment.
@@ -326,10 +326,10 @@ const Service1 = () => {
 
                       <div className="animation__service_page">
                         <h2 className="service__title-6">
-                        Transform Your Business with Our Customized Automation Management Solution"
+                        Transform Your Business with Our Customized Automation Management Solution
                         </h2>
                         <p>
-                        Our Customized Automation Management Solution is tailored to streamline and optimize your business operations, regardless of industry. From automating repetitive tasks to integrating workflows across departments, our platform enhances efficiency and reduces manual errors. With features like automated data processing, real-time reporting, and seamless system integrations, you can focus more on growth and less on routine tasks. Whether you're in manufacturing, retail, or services, our flexible solution adapts to your unique needs, helping you boost productivity, cut costs, and drive business success. Let us help you automate, innovate, and grow.
+                        Our Customized Automation Management Solution is tailored to streamline and optimize your business operations, regardless of industry. From automating repetitive tasks to integrating workflows across departments, our platform enhances efficiency and reduces manual errors. With features like automated data processing, real-time reporting, and seamless system integrations, you can focus more on growth and less on routine tasks. Whether youre in manufacturing, retail, or services, our flexible solution adapts to your unique needs, helping you boost productivity, cut costs, and drive business success. Let us help you automate, innovate, and grow.
                         </p>
                         <div className="btn_wrapper">
                           <Link

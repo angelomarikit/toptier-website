@@ -206,7 +206,7 @@ const Service1 = () => {
                         Empowering English Learners: Tailored Solutions for Success in Language Mastery
                         </h2>
                         <p>
-                        At TopTier Digital Solutions, we understand the unique challenges faced by English language learners. Our tailored services are designed to help you master English at your own pace, with personalized lessons, expert guidance, and innovative tools. Whether you're looking to improve your speaking, writing, or comprehension, our approach ensures faster progress and a deeper understanding. Avail our service to unlock new opportunities and gain the confidence to communicate effectively in any setting.
+                        At TopTier Digital Solutions, we understand the unique challenges faced by English language learners. Our tailored services are designed to help you master English at your own pace, with personalized lessons, expert guidance, and innovative tools. Whether you are looking to improve your speaking, writing, or comprehension, our approach ensures faster progress and a deeper understanding. Avail our service to unlock new opportunities and gain the confidence to communicate effectively in any setting.
                         </p>
                         <ul>
                         <li>+ Language Learning Expertise</li>
@@ -250,7 +250,7 @@ const Service1 = () => {
                         <p>
                         At TopTier Digital Solutions, we specialize in creating user-friendly, high-performing websites and mobile applications tailored to your business needs. 
                         Our expert team combines the latest technologies with innovative design to deliver seamless, responsive, and scalable solutions. 
-                        Whether you're launching a new site or enhancing an existing app, we ensure an exceptional user experience across all devices. 
+                        Whether you are launching a new site or enhancing an existing app, we ensure an exceptional user experience across all devices. 
                         Partner with us to bring your digital vision to life and stay ahead in a fast-evolving market.
                         </p>
                         <ul>

@@ -42,7 +42,7 @@ const ServiceDetailsFaq = () => {
                       <Accordion.Body className="accordion-body">
                         <p>
                         No experience is required—our team will provide comprehensive training for the actual operation. 
-                        While a Bachelor's degree in Education with any major is preferred, we welcome applicants from any 4-year course. We’re looking for motivated individuals eager to learn and grow within our supportive team. 
+                        While a Bachelors degree in Education with any major is preferred, we welcome applicants from any 4-year course. We’re looking for motivated individuals eager to learn and grow within our supportive team. 
                         If you have a passion for professional development and are ready to take on new challenges, we encourage you to apply!
                         </p>
                       </Accordion.Body>

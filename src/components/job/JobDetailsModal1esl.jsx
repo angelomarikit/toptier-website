@@ -47,7 +47,7 @@ const JobDetailsModal1 = ({ modal1, setModal1, setModal2 }) => {
               </div>
               <div className="input-apply">
                 <p>
-                Can you tell us about your experience teaching English as a second language and the types of students you've worked with
+                Can you tell us about your experience teaching English as a second language and the types of students you have worked with
                 </p>
                 <textarea name="question-2" required></textarea>
               </div>

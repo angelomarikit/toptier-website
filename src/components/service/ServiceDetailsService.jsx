@@ -47,7 +47,7 @@ const ServiceDetailsService = () => {
                 </p>
                 <p>
                 Experience a series of exciting and interactive events that are designed to enhance your 
-                language skills while having fun! The ESL department offers a variety of activities, from cultural celebrations to language games, providing the perfect opportunity to connect with fellow students, practice English in a relaxed setting, and create lasting memories. Whether you're looking to improve your speaking, listening, or writing skills, 
+                language skills while having fun! The ESL department offers a variety of activities, from cultural celebrations to language games, providing the perfect opportunity to connect with fellow students, practice English in a relaxed setting, and create lasting memories. Whether you are looking to improve your speaking, listening, or writing skills, 
                 these unreplaceable events promise a unique way to learn and enjoy the process! Stay tuned for upcoming activities and be sure to mark your calendars!
                 </p>
               </div>

@@ -45,13 +45,13 @@ const AboutTestimonial = () => {
                             Amazing digital service
                           </h2>
                           <p className="testimonial__text-2">
-                          "Working with TopTier Digital Solutions for our digital marketing needs has been a 
+                          Working with TopTier Digital Solutions for our digital marketing needs has been a 
                           game-changer for our business. From the very beginning, their team took the time to 
                           understand our goals and tailored a strategy that was specifically designed to reach our target audience. 
                           Their expertise in SEO, social media marketing, and paid ads has significantly increased our online visibility and 
-                          brought in more qualified leads. The communication throughout the entire process has been exceptional, and we've seen 
-                          measurable results—traffic, conversions, and sales have all gone up. We're extremely happy with the partnership and look 
-                          forward to continuing to work with them in the future."
+                          brought in more qualified leads. The communication throughout the entire process has been exceptional, and we have seen 
+                          measurable results—traffic, conversions, and sales have all gone up. We are extremely happy with the partnership and look 
+                          forward to continuing to work with them in the future.
                           </p>
                           <h3 className="testimonial__author">Adam Syndera</h3>
                           <h4 className="testimonial__role">CEO, Agency</h4>
@@ -66,13 +66,13 @@ const AboutTestimonial = () => {
                             Amazing digital service
                           </h2>
                           <p className="testimonial__text-2">
-                          "Working with TopTier Digital Solutions for our digital marketing needs has been a 
+                          Working with TopTier Digital Solutions for our digital marketing needs has been a 
                           game-changer for our business. From the very beginning, their team took the time to 
                           understand our goals and tailored a strategy that was specifically designed to reach our target audience. 
                           Their expertise in SEO, social media marketing, and paid ads has significantly increased our online visibility and 
-                          brought in more qualified leads. The communication throughout the entire process has been exceptional, and we've seen 
-                          measurable results—traffic, conversions, and sales have all gone up. We're extremely happy with the partnership and look 
-                          forward to continuing to work with them in the future."
+                          brought in more qualified leads. The communication throughout the entire process has been exceptional, and we have seen 
+                          measurable results—traffic, conversions, and sales have all gone up. We are extremely happy with the partnership and look 
+                          forward to continuing to work with them in the future.
                           </p>
                           <h3 className="testimonial__author">Adam Syndera</h3>
                           <h4 className="testimonial__role">CEO, Agency</h4>
