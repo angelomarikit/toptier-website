@@ -1,8 +1,8 @@
 import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import Solution from "../../../public/assets/imgs/thumb/business-solutions.png";
-import Solution2 from "../../../public/assets/imgs/thumb/business-solutions-1.png";
-import Solution3 from "../../../public/assets/imgs/thumb/business-solutions-2.png";
+// import Solution2 from "../../../public/assets/imgs/thumb/business-solutions-1.png";
+// import Solution3 from "../../../public/assets/imgs/thumb/business-solutions-2.png";
 import Icon1 from "../../../public/assets/imgs/icon/1.png";
 import Icon2 from "../../../public/assets/imgs/icon/2.png";
 import Icon3 from "../../../public/assets/imgs/icon/3.png";
@@ -22,7 +22,7 @@ const ServiceHero = () => {
     animationCharCome(charAnim.current);
   }, []);
 
-  
+
 
   function imageMoving(image_list) {
     let container = solutionArea.current;
@@ -87,13 +87,13 @@ const ServiceHero = () => {
               />
             </div>
             <div className="solution__img-2">
-              <Image
+              {/* <Image
                 priority
                 width={220}
                 style={{ height: "auto" }}
                 src={Solution2}
                 alt="Solution Image"
-              />
+              /> */}
             </div>
           </div>
 
@@ -108,13 +108,13 @@ const ServiceHero = () => {
 
           <div className="solution__right">
             <div className="solution__img-3">
-              <Image
+              {/* <Image
                 priority
                 width={459}
                 style={{ height: "auto" }}
                 src={Solution3}
                 alt="Solution Image"
-              />
+              /> */}
             </div>
           </div>
         </div>

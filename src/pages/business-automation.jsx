@@ -1,6 +1,6 @@
 import Head from "next/head";
 import RootLayout from "@/components/common/layout/RootLayout";
-import ServiceHero from "@/components/hero/ServiceHeroB";
+// import ServiceHero from "@/components/hero/ServiceHeroB";
 import Service1 from "@/components/service/Service1-B";
 import ServiceBrand from "@/components/brand/ServiceBrand";
 import DigitalAgencyCTA from "@/components/cta/DigitalAgencyCTA";
@@ -15,7 +15,7 @@ const Service = () => {
       </Head>
       <main>
         <RootLayout header="header3" footer="footer3">
-          <ServiceHero />
+          {/* <ServiceHero /> */}
           <Service1 />
           <ServiceBrand />
           <DigitalAgencyCTA />
