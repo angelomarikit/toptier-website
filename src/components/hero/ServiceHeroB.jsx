@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import Solution from "../../../public/assets/imgs/thumb/business-solutions.png";
-import Solution2 from "../../../public/assets/imgs/thumb/business-solutions-1.jpg";
+import Solution2 from "../../../public/assets/imgs/thumb/business-solutions-1.png";
 import Solution3 from "../../../public/assets/imgs/thumb/business-solutions-2.png";
 import Icon1 from "../../../public/assets/imgs/icon/1.png";
 import Icon2 from "../../../public/assets/imgs/icon/2.png";
@@ -21,6 +21,8 @@ const ServiceHero = () => {
     }
     animationCharCome(charAnim.current);
   }, []);
+
+  
 
   function imageMoving(image_list) {
     let container = solutionArea.current;
